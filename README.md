@@ -17,6 +17,7 @@
 - 🌱 Learning **System Design & Cloud Technologies**
 - 💬 Ask me about **React, Node.js, MongoDB, Java**
 - 📫 Reach me at **pratikdighe3005@gmail.com**
+- 🌐 Portfolio: **[https://pratikdighe.onrender.com](https://pratikdighe.onrender.com)**
 
 ---
 
@@ -24,46 +25,40 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js&theme=dark&perline=5" />
 </p>
 
 ### 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" />
 </p>
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript&perline=2" />
+  <img src="https://skillicons.dev/icons?i=java,javascript&theme=dark&perline=2" />
 </p>
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 </p>
-
----
-
-## 📌 Featured Projects 📂
-
-### 🔹 MERN E-Commerce Website  
-🛒 Authentication • Admin Dashboard • Cart & Checkout  
-
-### 🔹 Admin Panel (MERN)  
-🔐 JWT Authentication • Role-based Access  
-
-### 🔹 React UI Projects  
-🎨 Responsive UI • Tailwind CSS • Modern Design  
-
-➡️ Explore my repositories for complete source code.
 
 ---
 
 ## 📊 GitHub Stats 📈
 
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pd12patil&theme=radical" />
+</p>
+
+---
+
+## 🌐 Portfolio 🚀
+
+<p align="center">
+  <a href="https://pratikdighe.onrender.com">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
