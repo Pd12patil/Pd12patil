@@ -45,14 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats 📈
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pd12patil&theme=radical" />
-</p>
-
----
-
 ## 🌐 Portfolio 🚀
 
 <p align="center">
